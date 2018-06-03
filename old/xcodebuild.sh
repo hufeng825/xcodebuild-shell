@@ -2,7 +2,7 @@
 
 
 ###############设置需编译的项目配置名称###############
-app_build_config="Release" #编译的方式,有Release,Debug，自定义的AdHoc等
+app_build_config="Debug" #编译的方式,有Release,Debug，自定义的AdHoc等
 app_display_name="自定义的"
 app_version="0.1.1"
 app_team_ID="Y4CQMPSC2J"
